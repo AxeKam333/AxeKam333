@@ -1,3 +1,3 @@
 - Hi, I’m @AxeKam333
 - I’m interested in dancing, music, chess, climbing...
-- I’m currently learning C++ and HTML 
+- I’m currently learning C++ and HTML/CSS
